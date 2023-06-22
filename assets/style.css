@@ -70,7 +70,7 @@ body {
 
 .picture img, .carousel-item img {
 	width: 100%;
-	max-height: 100%;
+	max-height: fixed;
 }
 #about-me {
 	flex: 2
