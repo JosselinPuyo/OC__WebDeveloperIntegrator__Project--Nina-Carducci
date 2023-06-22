@@ -67,8 +67,9 @@ body {
 	z-index: 0;
 }
 
-.picture img, .carousel-item img {
+.picture img {
 	width: 100%;
+
 }
 #about-me {
 	flex: 2
@@ -352,3 +353,4 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
+
